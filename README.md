@@ -13,7 +13,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gulayjh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gulayjh)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
