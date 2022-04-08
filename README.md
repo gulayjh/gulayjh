@@ -11,10 +11,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gulayjh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<div style="width:'60%'">
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gulayjh&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
