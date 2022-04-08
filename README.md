@@ -10,7 +10,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gulayjh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gulayjh&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
