@@ -12,19 +12,21 @@
 </p>
 <h3 align="left">Portfolio</h3>
 <h2>Finished Projects:</h2>
-<a href="https://www.lilac.az/" target="blank">🌸 Lilac - flower boutique</a>
-<a href="https://www.inloya.com/" target="blank">🚀 Inloya - Platform for business owners to build relations with customer</a>
-<a href="https://www.partner2.inloya.com/" target="blank">🚀 Inloya - Modern admin panel build with react.js and next.js</a>
-<a href="https://www.ecoflow.az/" target="blank">🌍 Ecoflow - Portable power stations</a>
-<a href="https://www.tezibu.az/" target="blank">🚴🏻‍♀️ Tezibu - Food and goods delivery company with a admin panel for monitoring, maintaining, and controlling</a>
-<a href="https://www.flostore.az/" target="blank">🥾 FloStore - Shoes and shoe products</a>
-
+<ul> 
+    <li><a href="https://www.lilac.az/" target="blank">🌸 Lilac - flower boutique</a></li>
+    <li><a href="https://www.inloya.com/" target="blank">🚀 Inloya - Platform for business owners to build relations with customer</a></li>
+    <li><a href="https://www.partner2.inloya.com/" target="blank">🚀 Inloya - Modern admin panel build with react.js and next.js</a></li>
+    <li><a href="https://www.ecoflow.az/" target="blank">🌍 Ecoflow - Portable power stations</a></li>
+    <li><a href="https://www.tezibu.az/" target="blank">🚴🏻‍♀️ Tezibu - Food and goods delivery company with a admin panel for monitoring, maintaining, and controlling</a></li>
+    <li><a href="https://www.flostore.az/" target="blank">🥾 FloStore - Shoes and shoe products</a></li>
+</ul>
 <h2>Other Projects:</h2>
-<a href="https://www.diet-store.vercel.app/" target="blank">🛒 Dynamic template for e-commerce</a>
-<a href="https://www.walletinloya.vercel.app/" target="blank">🛍️ Landing page for digital cards</a>
-<a href="https://www.all-in-one-ten.vercel.app/" target="blank">📌 Landing page for company</a>
-<a href="https://www.gulayjh.vercel.app/" target="blank">🎯 Online portfolio</a>
-
+<ul>
+    <li><a href="https://www.diet-store.vercel.app/" target="blank">🛒 Dynamic template for e-commerce</a></li>
+    <li><a href="https://www.walletinloya.vercel.app/" target="blank">🛍️ Landing page for digital cards</a></li>
+    <li><a href="https://www.all-in-one-ten.vercel.app/" target="blank">📌 Landing page for company</a></li>
+    <li><a href="https://www.gulayjh.vercel.app/" target="blank">🎯 Online portfolio</a></li>
+</ul>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gulayjh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gulayjh&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
