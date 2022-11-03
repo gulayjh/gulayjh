@@ -27,6 +27,8 @@
     <li><a href="https://www.all-in-one-ten.vercel.app/" target="blank">📌 Landing page for company</a></li>
     <li><a href="https://www.gulayjh.vercel.app/" target="blank">🎯 Online portfolio</a></li>
 </ul>
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gulayjh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gulayjh&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
