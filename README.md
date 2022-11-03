@@ -13,19 +13,19 @@
 <h3 align="left">Portfolio</h3>
 <h2>Finished Projects:</h2>
 <ul> 
-    <li><a href="https://www.lilac.az/" target="blank">🌸 Lilac - flower boutique</a></li>
-    <li><a href="https://www.inloya.com/" target="blank">🚀 Inloya - Platform for business owners to build relations with customer</a></li>
-    <li><a href="https://www.partner2.inloya.com/" target="blank">🚀 Inloya - Modern admin panel build with react.js and next.js</a></li>
-    <li><a href="https://www.ecoflow.az/" target="blank">🌍 Ecoflow - Portable power stations</a></li>
-    <li><a href="https://www.tezibu.az/" target="blank">🚴🏻‍♀️ Tezibu - Food and goods delivery company with a admin panel for monitoring, maintaining, and controlling</a></li>
-    <li><a href="https://www.flostore.az/" target="blank">🥾 FloStore - Shoes and shoe products</a></li>
+    <li><a href="https://www.lilac.az/" target="_blank">🌸 Lilac - flower boutique</a></li>
+    <li><a href="https://www.inloya.com/" target="_blank">🚀 Inloya - Platform for business owners to build relations with customer</a></li>
+    <li><a href="https://www.partner2.inloya.com/" target="_blank">🚀 Inloya - Modern admin panel build with react.js and next.js</a></li>
+    <li><a href="https://www.ecoflow.az/" target="_blank">🌍 Ecoflow - Portable power stations</a></li>
+    <li><a href="https://www.tezibu.az/" target="_blank">🚴🏻‍♀️ Tezibu - Food and goods delivery company with a admin panel for monitoring, maintaining, and controlling</a></li>
+    <li><a href="https://www.flostore.az/" target="_blank">🥾 FloStore - Shoes and shoe products</a></li>
 </ul>
 <h2>Other Projects:</h2>
 <ul>
-    <li><a href="https://www.diet-store.vercel.app/" target="blank">🛒 Dynamic template for e-commerce</a></li>
-    <li><a href="https://www.walletinloya.vercel.app/" target="blank">🛍️ Landing page for digital cards</a></li>
-    <li><a href="https://www.all-in-one-ten.vercel.app/" target="blank">📌 Landing page for company</a></li>
-    <li><a href="https://www.gulayjh.vercel.app/" target="blank">🎯 Online portfolio</a></li>
+    <li><a href="https://www.diet-store.vercel.app/" target="_blank">🛒 Dynamic template for e-commerce</a></li>
+    <li><a href="https://www.walletinloya.vercel.app/" target="_blank">🛍️ Landing page for digital cards</a></li>
+    <li><a href="https://www.all-in-one-ten.vercel.app/" target="_blank">📌 Landing page for company</a></li>
+    <li><a href="https://www.gulayjh.vercel.app/" target="_blank">🎯 Online portfolio</a></li>
 </ul>
 
 
